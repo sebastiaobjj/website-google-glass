@@ -12,8 +12,10 @@ ul#album-fotos li span{
     opacity: 0;
     color: #ffffff;
     text-shadow: 1px 1px 1px #000000;
+    background-color: rgba(0,0,0,.3);
     font-size: 9pt;
     line-height: 370px;
+    padding: 5px;
     padding: 5px;
 }
 
